@@ -2,7 +2,7 @@
 
 I'm Hang, a computer engineering student @ ubc 
 
-Passionate about robotics, software engineering, systems and embedded development
+Passionate about ***learning***.
 
 **tech i worked with:**
 
