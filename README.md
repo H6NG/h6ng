@@ -13,3 +13,5 @@ Passionate about ***learning***.
 
 always open to internships and collabs!
 
+you can reach me [here](https://www.linkedin.com/in/h4ng/)!
+
