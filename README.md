@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**H6NG/h6ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hang, a computer engineering student @ ubc 
+Passionate about robotics, software engineering, systems and embedded development
 
-Here are some ideas to get you started:
+**tech i worked with: **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- python, java, c/c++, javascript along with html,css and reactjs
+- flask and node.js
+- git, linux, mangodb
+- fpga, risc-v and arduino
+
+always open to internships and collabs!
+
