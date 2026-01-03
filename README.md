@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Hang, a computer engineering student @ ubc 
+I'm `Hang`, a computer engineering student @ ubc 
 
 Passionate about ***learning***.
 
