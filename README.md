@@ -10,6 +10,7 @@ Passionate about ***learning***.
 - systemVerilog, risc-v assembly, questa, quartus
 - flask and node.js
 - git, linux, mangodb
+- pytorch, opencv, mediapipe
 - fpga, risc-v and arduino
 
 always open to internships and collabs!
