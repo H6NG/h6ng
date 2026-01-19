@@ -9,7 +9,7 @@ Passionate about ***learning***.
 - python, java, c/c++, javascript along with html, css and reactjs
 - systemVerilog, risc-v and ARM64 assembly, questa, quartus
 - flask, node.js, git, linux, mangodb
-- pytorch, opencv, mediapipe
+- pytorch, numpy, opencv, mediapipe
 - fpga, risc-v and arduino
 
 always open to internships and collabs!
