@@ -6,7 +6,7 @@ Passionate about ***learning***.
 
 **tech i worked with:**
 
-- python, java, c/c++, javascript along with html, css and reactjs
+- python, java, c, c++, javascript along with html, css and reactjs
 - systemVerilog, risc-v and ARM64 assembly, questa, quartus
 - flask, node.js, git, linux, mangodb
 - pytorch, numpy, opencv, mediapipe
