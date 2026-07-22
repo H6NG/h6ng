@@ -1,16 +1,11 @@
+## Hang Liu
+
+```text
+$ whoami
+> computer engineering @ ubc — from logic gates up to the web app on top
 ```
-   ┌─────────────────────────────────────────────┐
-   │  $ whoami                                     │
-   │  > hang liu — computer engineering @ ubc      │
-   │  > status: fetch → decode → execute → repeat  │
-   └─────────────────────────────────────────────┘
-```
 
-## // Hang Liu
-
-I build things across the whole stack — and I mean the *whole* stack: from logic gates and RISC-V pipelines up through the OS, and out to the web app on top. I like the layer where software stops being an abstraction and starts being voltage.
-
-Most of my curiosity lives in that gap between `1`s and `0`s and the thing the user actually sees.
+I like the layer where software stops being an abstraction and starts being voltage.
 
 ```verilog
 module hang (
