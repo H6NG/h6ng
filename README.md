@@ -1,11 +1,6 @@
 ## Hang Liu
 
-```text
-$ whoami
-> computer engineering @ ubc — from logic gates up to the web app on top
-```
-
-I like the layer where software stops being an abstraction and starts being voltage.
+Computer engineering @ UBC. I build software and hardware — comfortable shipping a web app or bringing up an FPGA, and happiest working where the two meet.
 
 ```verilog
 module hang (
@@ -22,29 +17,29 @@ endmodule
 ### `> tech.stack`
 
 ```text
-LOW-LEVEL / HW   SystemVerilog · RISC-V · ARM64 asm · FPGA · Arduino · Questa · Quartus
-SYSTEMS          C · C++ · Linux · Git
-SOFTWARE         Python · Java · JavaScript · React · Node.js · Flask · MongoDB
-ML / VISION      PyTorch · NumPy · OpenCV · MediaPipe
+SOFTWARE       Python · Java · JavaScript · React · Node.js · Flask · MongoDB
+SYSTEMS        C · C++ · Linux · Git
+HARDWARE       SystemVerilog · RISC-V · ARM64 asm · FPGA · Arduino · Questa · Quartus
+ML / VISION    PyTorch · NumPy · OpenCV · MediaPipe
 ```
 
 ### `> currently`
 
 ```text
+[x] building full-stack apps with React + Node
 [x] getting RISC-V cores to behave on real silicon
-[x] poking at CV pipelines with OpenCV + MediaPipe
 [ ] sleep()                        // deprecated
-[>] OPEN TO INTERNSHIPS — let's build something
+[>] OPEN TO INTERNSHIPS — software, hardware, or both
 ```
 
 ---
 
-### `> interrupt_handler`
+### `> contact`
 
-Got a project at the hardware/software boundary? Raise an IRQ:
+Building something interesting? Let's talk.
 
 **[LinkedIn](https://www.linkedin.com/in/h4ng/)** · Vancouver, BC
 
 ```text
-// 0x2A: I debug waveforms and CSS with the exact same face
+// I debug waveforms and CSS with the exact same face
 ```
