@@ -12,7 +12,7 @@ Passionate about ***learning***.
 - pytorch, numpy, opencv, mediapipe
 - fpga, risc-v and arduino
 
-always open to internships and collabs!
+always open to internships!
 
 you can reach me [here](https://www.linkedin.com/in/h4ng/)!
 
