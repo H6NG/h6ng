@@ -11,6 +11,15 @@
 
 📍 Vancouver, BC — **available Fall 2026 / Winter 2027 for 4, 8, or 12-month co-op**, looking for firmware/hardware or software engineering roles.
 
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics👇🏻</b></summary>
+    <br>
+        
+<img src="">
+    </details>
+</div>
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
