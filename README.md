@@ -1,9 +1,9 @@
 # 👨🏻‍💻 [Hang Liu](https://h4ng.dev) [@h6ng](https://h4ng.dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h6ng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4ng/)
-[![Gmail](https://img.shields.io/badge/hglu@student.ubc.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
-[![Website](https://img.shields.io/badge/h4ng.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://h4ng.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-000605?style=flat&logo=github&logoColor=white)](https://github.com/h6ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000605?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4ng/)
+[![Email](https://img.shields.io/badge/Email-000605?style=flat&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
+[![Website](https://img.shields.io/badge/h4ng.dev-000605?style=flat&logo=googlechrome&logoColor=white)](https://h4ng.dev)
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=h6ng&color=red&style=flat)](https://komarev.com/ghpvc/?username=h6ng)
 
