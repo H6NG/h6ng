@@ -5,8 +5,6 @@
 [![Email](https://img.shields.io/badge/Email-000605?style=flat&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
 [![Website](https://img.shields.io/badge/h4ng.dev-000605?style=flat&logo=googlechrome&logoColor=white)](https://h4ng.dev)
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=h6ng&color=red&style=flat)](https://komarev.com/ghpvc/?username=h6ng)
-
 :wave: Hello! I'm a Computer Engineering student at **UBC** (BASc, Co-op, expected May 2028), working across the stack from RISC-V assembly and FPGA firmware up to PyTorch models and React frontends. I like problems that sit close to the metal (timer interrupts, framebuffers, memory-mapped I/O) and I like problems that are just hard search problems in disguise, like chess engines and event-driven trading systems. I care about correctness, latency, and building things end-to-end rather than gluing together pretrained parts.
 
 📍 Vancouver, BC — **available Fall 2026 / Winter 2027 for 4, 8, or 12-month co-op**, looking for firmware/hardware or software dev/eng roles.
