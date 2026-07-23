@@ -24,36 +24,6 @@
 | [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles](https://img.shields.io/static/v1?label=&message=dotfiles&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/h6ng/dotfiles) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-### 🔧 Selected Projects
-
-**[Tron Game (FPGA + VGA)](https://github.com/h6ng/tron-fpga)** — `Embedded C`, `RISC-V`, `JTAG UART`
-Real-time light-cycle game on a RISC-V FPGA platform. Timer-interrupt-driven game loop, framebuffer VGA rendering, memory-mapped I/O, collision detection, autonomous opponent movement, and 7-segment score tracking. Debugged over JTAG UART with Quartus and ModelSim.
-
-**[NECAI — Chess Engine](https://github.com/h6ng/necai)** — `C++`, `PyTorch`, `React`
-Minimax with alpha-beta pruning and quiescence search to depth 4 — **1800+ Elo at 0.44s average search time**. Classical evaluator (material, piece-square tables, pawn structure, king safety) running ~50K nodes/sec, plus a PyTorch neural evaluator trained on ~50M Stockfish-labeled positions (depth ≥ 18) with a Tanh-calibrated scalar output.
-
-**[IamP — Image Processing & Labelling](https://github.com/h6ng/iamp)** — `C++`, `Python`, `PyTorch`, `CUDA`
-ResNet implemented from scratch rather than fine-tuned from torchvision, targeting 94-class alphanumeric classification. End-to-end pipeline: pattern detection → automated cropping → label assignment, eliminating manual annotation. Trained across the CS department RTX 3070 server and Colab T4, managing checkpoint portability between environments.
-
-**[QuantFlow — Autonomous Financial Agent](https://github.com/h6ng/quantflow)** — `Python`, `asyncio`, `EC2`
-Event-driven trading system over WebSockets: ~120 events/sec at ~18ms decision latency. Modular strategy engine supporting 3 strategies, ~2× throughput gain from async processing, +5% return over a 7-day simulation with ~12% max drawdown.
-
-### 🛠 Toolbox
-
-**Languages** — SystemVerilog · C · C++ · RISC-V Assembly · Python · Java · SQL · TypeScript · Bash
-**Hardware & EDA** — FPGA · Quartus · ModelSim/Questa · UVM · JTAG · waveform debugging
-**Protocols** — UART · SPI · QSPI · I2C
-**Software** — PyTorch · OpenCV · React · FastAPI · Flask · Docker · PostgreSQL · MongoDB · Supabase · Git · Linux
-**Testing** — JUnit · Pytest
-
-### 🏆 Beyond Code
-
-- 🎯 **Hackathons** — 4+ across Quebec and Vancouver; top 4 of 50+ teams for a real-time mobile object detection system for visually impaired navigation (~90% accuracy, 15–30 FPS on-device)
-- ⚡ **IEEE UBC Student Branch** — Event Planner Specialist; 3+ events, 100+ attendees, team of 5+ volunteers
-- 📚 **Tutorax** — Private math and French tutor since July 2024; 5+ students, up to 20% measured score improvement
-- ♟️ Chess (~1800 Elo) · 🏀 UBC Intramural Basketball
-- 🌍 French (Native) · English (Fluent) · Mandarin (Intermediate) · Spanish (Intermediate)
-
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
