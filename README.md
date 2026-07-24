@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-000605?style=flat&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
 [![Website](https://img.shields.io/badge/h4ng.dev-000605?style=flat&logo=googlechrome&logoColor=white)](https://h4ng.dev)
 
-:wave: Hello! I'm a Computer Engineering student at **UBC** (BASc, Co-op, expected May 2028), working across the stack from RISC-V assembly and FPGA firmware up to PyTorch models and React frontends. I like problems that sit close to the metal (timer interrupts, framebuffers, memory-mapped I/O) and I like problems that are just hard search problems in disguise, like chess engines and event-driven trading systems. I care about correctness, latency, and building things end-to-end rather than gluing together pretrained parts.
+:wave: Hello! I'm a third year computer engineering student at the University of British Columbia (BASc, Co-op, expected May 2028)
 
 <div align="center">
   <details>
