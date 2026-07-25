@@ -1,9 +1,9 @@
 # 👨🏻‍💻 [Hang Liu](https://h4ng.dev) [@h6ng](https://h4ng.dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000605?style=flat&logo=github&logoColor=white)](https://github.com/h6ng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000605?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4ng/)
-[![Email](https://img.shields.io/badge/Email-000605?style=flat&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
-[![Website](https://img.shields.io/badge/h4ng.dev-000605?style=flat&logo=googlechrome&logoColor=white)](https://h4ng.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-000605?style=flat-square&logo=github&logoColor=white)](https://github.com/h6ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000605?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4ng/)
+[![Email](https://img.shields.io/badge/Email-000605?style=flat-square&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
+[![Website](https://img.shields.io/badge/h4ng.dev-000605?style=flat-square&logo=googlechrome&logoColor=white)](https://h4ng.dev)
 
 :wave: Hello! I'm a third year computer engineering student at the University of British Columbia (BASc, Co-op, expected May 2028)
 
