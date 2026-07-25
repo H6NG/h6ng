@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [Hang Liu](https://h4ng.dev) [@h6ng](https://h4ng.dev)
+<h1 align="center">🧑‍💻 <a href="https://h4ng.dev">Hang Liu</a> · <a href="https://github.com/h6ng">@h6ng</a></h1>
 
 <p align="center">
   <a href="https://github.com/h6ng"><img src="https://img.shields.io/badge/GitHub-000605?style=flat-square&logo=github&logoColor=white"></a>
