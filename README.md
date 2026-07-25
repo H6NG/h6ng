@@ -1,9 +1,11 @@
 # 👨🏻‍💻 [Hang Liu](https://h4ng.dev) [@h6ng](https://h4ng.dev)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000605?style=flat-square&logo=github&logoColor=white)](https://github.com/h6ng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000605?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h4ng/)
-[![Email](https://img.shields.io/badge/Email-000605?style=flat-square&logo=gmail&logoColor=white)](mailto:hglu@student.ubc.ca)
-[![Website](https://img.shields.io/badge/h4ng.dev-000605?style=flat-square&logo=googlechrome&logoColor=white)](https://h4ng.dev)
+<p align="center">
+  <a href="https://github.com/h6ng"><img src="https://cdn.simpleicons.org/github/ffffff" width="26" height="26"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/h4ng/"><img src="https://cdn.simpleicons.org/linkedin/ffffff" width="26" height="26"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hglu@student.ubc.ca"><img src="https://cdn.simpleicons.org/gmail/ffffff" width="26" height="26"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://h4ng.dev"><img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="26" height="26"/></a>
+</p>
 
 :wave: Hello! I'm a third year computer engineering student at the University of British Columbia (BASc, Co-op, expected May 2028)
 
