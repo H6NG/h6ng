@@ -1,29 +1,27 @@
 # Hang Liu
 
-```ts
-const hangLiu = {
-  role: "Computer Engineering @ UBC",
-  program: "BASc, Co-op — expected May 2028",
-  focus: ["embedded systems", "FPGA acceleration", "applied ML"],
-  building: ["NECAI", "iamP", "FPGA-AI-Accelerator"],
-  site: "h4ng.dev",
-};
-```
+*Computer Engineering @ UBC · BASc Co-op · expected May 2028*
 
-[h4ng.dev](https://h4ng.dev) · [@h6ng](https://github.com/h6ng) · [LinkedIn](https://www.linkedin.com/in/h4ng/) · [email](mailto:hglu@student.ubc.ca)
+[h4ng.dev](https://h4ng.dev) &nbsp;·&nbsp; [GitHub](https://github.com/h6ng) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/h4ng/) &nbsp;·&nbsp; [Email](mailto:hglu@student.ubc.ca)
 
 ---
 
 ### Projects
 
-| | |
+| Project | Description |
 |---|---|
-| [**NECAI**](https://github.com/h6ng/necai) | `C++` `Python` `PyTorch` `React` |
-| [**iamP**](https://github.com/h6ng/iamp) | `C++` `Python` `PyTorch` |
-| [**FPGA-AI-Accelerator**](https://github.com/h6ng/fpga-ai-accelerator) | `Embedded C` `SystemVerilog` |
-| [**Quantflow**](https://github.com/h6ng/quantflow) | `Python` `React` |
-| [**_Marketflux**](https://github.com/h6ng/_Marketflux) | `Python` `React` |
-| [**coding-problems**](https://github.com/h6ng/coding-problems) | `C++` |
+| [**NECAI**](https://github.com/h6ng/necai) | Chess engine combining a C++ negamax search with a PyTorch evaluator trained on Stockfish positions, served through a Flask API to a React frontend. |
+| [**MarketFlux**](https://github.com/h6ng/.getMarketFlux) | Trade on what you know, without risk — full-stack prediction market platform where users trade probability shares on real-world events. |
+| [**custom-cpu**](https://github.com/h6ng/custom-cpu) | 32-bit RISC-V CPU on an FPGA featuring a 5-stage pipeline architecture with hazard detection and resolution mechanisms. |
+| [**fpga-tron**](https://github.com/h6ng/fpga-tron) | Real-time Tron light-cycle game in Embedded C on a RISC-V FPGA platform with VGA graphics rendering and memory-mapped I/O. |
+| [**coding-problems**](https://github.com/h6ng/coding-problems) | Solving HackerRank / LeetCode / CodeForces problems until I get a job or an internship. |
+| **iamP** | *description needed — repo not found publicly* |
+| **FPGA-AI-Accelerator** | *description needed — repo not found publicly* |
+| **Quantflow** | *description needed — repo not found publicly* |
+
+### Skills & Tools
+
+`C++` `Embedded C` `SystemVerilog` `Python` `PyTorch` `React` `Flask`
 
 <details>
 <summary>GitHub metrics</summary>
