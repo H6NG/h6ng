@@ -6,22 +6,22 @@
 
 ---
 
-### Projects
-
-| Project | Description |
-|---|---|
-| [**NECAI**](https://github.com/h6ng/necai) | Chess engine combining a C++ negamax search with a PyTorch evaluator trained on Stockfish positions, served through a Flask API to a React frontend. |
-| [**MarketFlux**](https://github.com/h6ng/.getMarketFlux) | Trade on what you know, without risk — full-stack prediction market platform where users trade probability shares on real-world events. |
-| [**custom-cpu**](https://github.com/h6ng/custom-cpu) | 32-bit RISC-V CPU on an FPGA featuring a 5-stage pipeline architecture with hazard detection and resolution mechanisms. |
-| [**fpga-tron**](https://github.com/h6ng/fpga-tron) | Real-time Tron light-cycle game in Embedded C on a RISC-V FPGA platform with VGA graphics rendering and memory-mapped I/O. |
-| [**coding-problems**](https://github.com/h6ng/coding-problems) | Solving HackerRank / LeetCode / CodeForces problems until I get a job or an internship. |
-| **iamP** | *description needed — repo not found publicly* |
-| **FPGA-AI-Accelerator** | *description needed — repo not found publicly* |
-| **Quantflow** | *description needed — repo not found publicly* |
-
 ### Skills & Tools
 
 `C++` `Embedded C` `SystemVerilog` `Python` `PyTorch` `React` `Flask`
+
+### Projects
+
+| Project | Description | Category |
+|---|---|---|
+| [**NECAI**](https://github.com/h6ng/necai) | Chess engine combining a C++ negamax search with a PyTorch evaluator trained on Stockfish positions, served through a Flask API to a React frontend. | Software |
+| [**MarketFlux**](https://github.com/h6ng/.getMarketFlux) | Trade on what you know, without risk — full-stack prediction market platform where users trade probability shares on real-world events. | Software |
+| [**coding-problems**](https://github.com/h6ng/coding-problems) | Solving HackerRank / LeetCode / CodeForces problems until I get a job or an internship. | Software |
+| [**custom-cpu**](https://github.com/h6ng/custom-cpu) | 32-bit RISC-V CPU on an FPGA featuring a 5-stage pipeline architecture with hazard detection and resolution mechanisms. | Hardware |
+| [**fpga-tron**](https://github.com/h6ng/fpga-tron) | Real-time Tron light-cycle game in Embedded C on a RISC-V FPGA platform with VGA graphics rendering and memory-mapped I/O. | Hardware |
+| **iamP** | *description needed — repo not found publicly* | ? |
+| **FPGA-AI-Accelerator** | *description needed — repo not found publicly* | Hardware |
+| **Quantflow** | *description needed — repo not found publicly* | ? |
 
 <details>
 <summary>GitHub metrics</summary>
