@@ -1,8 +1,8 @@
 # Hang Liu 👋
 
-*Computer Engineering @ UBC · BASc Co-op · expected May 2028*
+*Computer Engineering @ UBC · BASc Co-op*
 
-I like building things close to the metal — FPGAs, embedded systems, and the occasional model that pretends to play chess. Currently looking for co-op opportunities.
+Currently looking for co-op opportunities.
 
 [h4ng.dev](https://h4ng.dev) &nbsp;·&nbsp; [GitHub](https://github.com/h6ng) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/h4ng/) &nbsp;·&nbsp; [Email](mailto:hglu@student.ubc.ca)
 
