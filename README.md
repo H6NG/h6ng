@@ -23,7 +23,7 @@ Currently looking for co-op opportunities.
 | [**fpga-tron**](https://github.com/h6ng/fpga-tron) | Real-time Tron light-cycle game in Embedded C on a RISC-V FPGA platform with VGA graphics rendering and memory-mapped I/O. |
 | [**iamP**](https://github.com/h6ng/iamP) | Image processing engine that classifies and labels images, using machine learning to recognize patterns for object detection. |
 | **Greppable** | Grep for meaning, not just strings — upload documents, ask questions in plain language, and get answers with citations back to the exact page. Built on a Postgres-backed job queue with concurrent workers for PDFs at scale, exposed over MCP so Claude can search your corpus directly. |
-| **Quantflow** | Trading bot built around a five-stage pipeline, from data ingestion through signal generation to trade execution. |
+| **QFlow** | Trading bot built around a five-stage pipeline, from data ingestion through signal generation to trade execution. |
 
 <details>
 <summary>GitHub metrics</summary>
